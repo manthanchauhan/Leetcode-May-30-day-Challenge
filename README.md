@@ -3,6 +3,12 @@
 * It would be really helpful if everyone can contribute code in their preferred language if not already present, or modify the code in terms of any betterment.
 * If it benefits someone we can extend this repository to cover all the Leetcode 30 day challenges.
 
+# How to get help?
+* Go to the "Issues" tab on the top.
+* Click on the button "New Issue" (Big Green), to create a new issue.
+* Give your issue a title so that others with similar problem can participate.
+* Write your query in description and post.
+
 # Resources
 * Tutorials by @kunal-kushwaha: https://youtu.be/PJVGQiR3sag
   
