@@ -10,6 +10,6 @@
 * Write your query in description and post.
 
 # Resources
-* Tutorials by @kunal-kushwaha: https://youtu.be/PJVGQiR3sag
+* Tutorials by [@kunal-kushwaha](https://github.com/kunal-kushwaha): https://www.youtube.com/playlist?list=PLyzHIYrZBplqwJtEBhwTOuB5b3wUUeLpP
   
 https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
