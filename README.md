@@ -3,4 +3,7 @@
 * It would be really helpful if everyone can contribute code in their preferred language if not already present, or modify the code in terms of any betterment.
 * If it benefits someone we can extend this repository to cover all the Leetcode 30 day challenges.
 
+# Resources
+* Tutorials by @kunal-kushwaha: https://youtu.be/PJVGQiR3sag
+  
 https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
