@@ -4,6 +4,6 @@
 * If it benefits someone we can extend this repository to cover all the Leetcode 30 day challenges.
 
 # Resources
-* Tutorials by kunal kushwaha: https://youtu.be/PJVGQiR3sag
+* Tutorials by @kunal-kushwaha: https://youtu.be/PJVGQiR3sag
   
 https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
