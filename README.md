@@ -12,7 +12,7 @@
 # How to contribute?
 * Fork this repository.
 * Make changes in any feature branch.
-* Submit a PR to "manthanchauhan/Leetcode-May-30-day-Challenge/master" and **NOT** to "IamJayshree/Leetcode-May-30-day-Challenge".
+* Submit a PR to "manthanchauhan/Leetcode-May-30-day-Challenge/master".
 
 # Resources
 * Tutorials by [@kunal-kushwaha](https://github.com/kunal-kushwaha): https://www.youtube.com/playlist?list=PLyzHIYrZBplqwJtEBhwTOuB5b3wUUeLpP
